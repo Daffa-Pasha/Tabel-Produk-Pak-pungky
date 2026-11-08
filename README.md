@@ -9,7 +9,7 @@ Aplikasi halaman admin e-commerce dengan fitur **CRUD (Create, Read, Update, Del
 | 1   Daffa Pasha Buana  2522105064 |
 
 
-> Ganti placeholder di atas dengan nama dan NIM anggota kelompok Anda.
+
 
 ## Fitur
 
