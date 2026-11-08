@@ -5,10 +5,9 @@ Aplikasi halaman admin e-commerce dengan fitur **CRUD (Create, Read, Update, Del
 ## Anggota Kelompok
 
 | No | Nama Lengkap | NIM |
-|----|--------------|-----|
-| 1  | [Nama Lengkap Anggota 1] | [NIM Anggota 1] |
-| 2  | [Nama Lengkap Anggota 2] | [NIM Anggota 2] |
-| 3  | [Nama Lengkap Anggota 3] | [NIM Anggota 3] |
+
+| 1   Daffa Pasha Buana  2522105064 |
+
 
 > Ganti placeholder di atas dengan nama dan NIM anggota kelompok Anda.
 
